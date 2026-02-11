@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ルフラン feat. 笹川真生",
+  "base_artist": "理芽",
+  "createdAt": "2026-02-11T15:51:22.128015Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ルフラン",
+      "artist": "理芽, 笹川真生",
+      "has_synced": false,
+      "path": "select/pl_01_ルフラン_理芽,_笹川真生.txt"
+    }
+  ]
+}
